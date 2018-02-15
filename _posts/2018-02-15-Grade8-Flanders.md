@@ -7,7 +7,7 @@ permalink: /8/Flanders
 slides:
  - title: A Dog of Flanders
    slide-data: Aaron,Dominik,Jack,Jenny,Julie and Tom                       （The names are arranged in the alphabet order without priority）
-   background: "#e74c3c"
+   image: 'https://scris.top/slides/images/Flanders/girldog.jpg'
      
  - title: Slide 2
    slide-data: This is second slide
