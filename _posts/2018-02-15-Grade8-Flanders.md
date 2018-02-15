@@ -1,12 +1,12 @@
 ---
-title: Presentation 2
+title: A Dog of Flanders
 layout: post
-permalink: /presentation-2/
+permalink: /8/Flanders
 
  
 slides:
- - title: Slide 1
-   slide-data: This is first slide
+ - title: A Dog of Flanders
+   slide-data: Aaron,Dominik,Jack,Jenny,Julie and Tom
    background: "#e74c3c"
      
  - title: Slide 2
